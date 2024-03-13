@@ -15,5 +15,5 @@ rslt = n * b;
 console.log(`o resultado da ${op} entre ${n} e ${b} é: ${rslt}`);
 
 op="/";
- rslt = n / b;
+rslt = n / b;
 console.log(`o resultado da ${op} entre ${n} e ${b} é: ${rslt}`);
